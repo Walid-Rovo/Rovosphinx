@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/wmsi/catkin_ws/src/rov_beta/devel -DCMAKE_INSTALL_PREFIX=/home/wmsi/catkin_ws/src/rov_beta/install -G Unix Makefiles

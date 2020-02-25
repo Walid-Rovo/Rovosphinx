@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wmsi/catkin_ws/src/rov_beta/install/setup.sh
